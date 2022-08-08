@@ -1,2 +1,2 @@
-# targeted_attack
-targeted attack for object detection
+# attack
+adversarial attack for object detection
